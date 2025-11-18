@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-- 💻 I'm a **full-stack & backend developer**, passionate about **Minecraft server architecture**, **Kubernetes**, and **clean code**.  
+- 💻 I'm a beginner **full-stack & backend developer**, passionate about **Minecraft server architecture**, **Kubernetes**, and **clean code**.  
 - 🚀 I build **scalable infrastructures** mixing **Java**, **Node.js**, **Docker**, **K3S**, and **RabbitMQ**.  
 - ☕ I love **minimalist design**, **automation**, and **innovation through simplicity**.
 
